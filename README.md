@@ -40,5 +40,5 @@ This project was developed for Duality AI’s HackAura Hackathon, specifically t
 
 ---
 
-**This project demonstrates practical AI applications for enhanced situational awareness and risk reduction in space operations, combining deep learning, simulation integration, and modern deployment platforms.**
+**This project demonstrates practical AI applications for enhanced situational awareness and risk reduction in space operations, combining deep learning, simulation integration, and modern deployment platforms.
 """
