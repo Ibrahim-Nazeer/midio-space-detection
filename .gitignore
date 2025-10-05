@@ -1,0 +1,125 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.swp
+.history/
+
+# Node / Next
+node_modules/
+.next/
+out/
+build/
+dist/
+.cache/
+.vite/
+.next/cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Lockfiles (optional to ignore if you want deterministic installs tracked)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Frontend static / bundler
+public/static/
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+.python-version
+.python-eggs/
+*.cover
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+
+# Coverage / reports
+coverage/
+coverage.xml
+*.lcov
+
+# Database / local data
+*.sqlite3
+*.db
+
+# Machine learning model weights / large binaries
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+backend/best.pt
+
+# Docker
+docker-compose.override.yml
+docker-compose.*.yml
+.docker/
+
+# Misc
+*.bak
+*.tmp
+*.swp
+*.seed
+*.orig
+*.rej
+.idea/
+.vscode/
+.vscode-test/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# If you use JetBrains IDEs
+*.iml
+*.ipr
+*.iws
+
+# GitHub actions / CI caches
+.cache/
+.sonar/
