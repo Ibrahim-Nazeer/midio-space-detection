@@ -1,0 +1,5 @@
+train: C:\Hackaura\Hackathon2_scripts\train3
+val: C:\Hackaura\Hackathon2_scripts\val3
+test: C:\Hackaura\Hackathon2_scripts\test3
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
